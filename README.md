@@ -34,4 +34,4 @@ For more information about the BodyParts3D Project, visit:
 ## **How to Cite**
 
 If you use these raw files, please cite the BodyParts3D Project and acknowledge this repository. For processed files and dummy head models, refer to our Zenodo repository:  
-- [Zenodo Repository](https://doi.org/10.xxx/zenodo.xxx)
+- [Zenodo Repository](https://doi.org/10.5281/zenodo.13777788)
