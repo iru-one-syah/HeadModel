@@ -9,6 +9,11 @@ If you'd like to see how these files can be modified and used to create a dummy 
 
 The files provided here are the unprocessed versions of the data, filtered and organized to make customization easier.
 
+<p align="center">
+  <img src="screenshot.png" width="500">
+</p>
+
+
 ---
 
 ## **Contents**
